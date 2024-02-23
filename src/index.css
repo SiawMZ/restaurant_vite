@@ -1,0 +1,16 @@
+/* src/index.css */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+#root {
+    margin: 0 auto;
+    text-align: center;
+  }
+
+  body {
+    margin: 0; /* Reset default margin */
+    padding: 0; /* Reset default padding */
+    background-color: rgb(247, 247, 247); /* Your desired background color */
+  }
+  

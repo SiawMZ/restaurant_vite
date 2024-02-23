@@ -1,0 +1,21 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+.nav-item{
+    font-style: oblique;
+    font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;    
+    color: rgb(11, 3, 50);
+    font-size:xx-large;
+    text-align: left;
+
+}
+
+.navbarOption{
+    text-align: left;
+    padding-left: 100px;
+    margin-left: 10%;
+    color: rgb(255, 165, 47);
+
+}
+
